@@ -5,19 +5,27 @@ During a recent visit to New York City, two friends rented bikes and got to see 
 
 
 ## Results
-The entire module with worksheets and stories can be seen here. The final challenge results are also included in this link. 
+The entire module with worksheets and stories can be seen here. The final challenge results are also included in this link. (https://public.tableau.com/profile/holley2560#!/vizhome/CitiBikemodule14/TopEndingLocations?publish=yes)
 
 The first thing that was needed was to use Python and the pandas library in Jupyter notebook to change the trip duration time to a Datetime Format. This information was used for the first graph. As illustrated in the graph, the most rides were mostly an hour long and in the mornings. 
+![](https://github.com/holleyvoegtle/Bikesharing/blob/main/Analysis%20graphs/Checkout%20time%20users.png)
+
+
 
 The second graph is checkout times by gender. The same trend as we saw with the first graph is illustrated with males and females, with less numbers but similar trend. Trips are about an hour with morning times being more popular. 
+![](https://github.com/holleyvoegtle/Bikesharing/blob/main/Analysis%20graphs/Checkout%20times%20by%20Gender.png)
 
 The third graph is a heat map which illustrates the most popular trips according to which day of the week. Thursday seems to be the most amount of trips with an increase in the morning and in the evening. These times seem to correspond with rush hour.
+![](https://github.com/holleyvoegtle/Bikesharing/blob/main/Analysis%20graphs/Trips%20by%20Weekday.png)
 
 The fourth graph takes the previous information and splits it into gender. This is also a heat map. The same trend is seen as previously but this time more men are using the bikes. 
+![](https://github.com/holleyvoegtle/Bikesharing/blob/main/Analysis%20graphs/Trips%20by%20Gender.png)
 
 The fifth graph the was created was comparing genders, days of the week and if the user is a one time customer or an annual subscriber. It is clearly seen that the Males, who are subscribers, use the bikes the most on Thursday and Fridays. 
+![](https://github.com/holleyvoegtle/Bikesharing/blob/main/Analysis%20graphs/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
 Further information that was included in the Tableau story (NYC Citibike Analysis), was the amount of users in August and what time of the time was most popular. This graph backed up the previous claim of the bikes being used around 5-6pm followed by the next popular time of around 8am. 
+![](https://github.com/holleyvoegtle/Bikesharing/blob/main/Analysis%20graphs/August%20Peak%20Hours.png)
 
 Finally, the last graphs that were included in the analysis with the top location for starting and ending locations of the bikes. Interestingly enough, these locations seem to be very similar and are concentrated in the mid to lower west side of Manhattan. 
 
