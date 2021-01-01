@@ -5,7 +5,7 @@ During a recent visit to New York City, two friends rented bikes and got to see 
 
 
 ## Results
-The entire module with worksheets and stories can be seen here. The final challenge results are also included in this link. (https://public.tableau.com/profile/holley2560#!/vizhome/CitiBikemodule14/TopEndingLocations?publish=yes)
+The entire module with worksheets and stories can be seen here. The final challenge results are also included in this link. (https://public.tableau.com/profile/holley2560#!/vizhome/CitiBikemodule14/NYCCitibikeAnalysis)
 
 The first thing that was needed was to use Python and the pandas library in Jupyter notebook to change the trip duration time to a Datetime Format. This information was used for the first graph. As illustrated in the graph, the most rides were mostly an hour long and in the mornings. 
 ![](https://github.com/holleyvoegtle/Bikesharing/blob/main/Analysis%20graphs/Checkout%20time%20users.png)
